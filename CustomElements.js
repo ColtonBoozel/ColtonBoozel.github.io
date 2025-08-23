@@ -3,7 +3,7 @@ class SpecialHeader extends HTMLElement {
     this.innerHTML = `
        <nav class="navbar"> <!-- Start of NavBar -->
       <div class="navbar__container">
-        <a href="/Home.html" id="navbar__logo">
+        <a href="/index.html" id="navbar__logo">
           <img
             src="Images/PattersonABQ.png"
             alt="Patterson Dental Techs Logo"
@@ -24,7 +24,7 @@ class SpecialHeader extends HTMLElement {
       </div>
       <ul class="navbar__menu">
         <li class="navbar__item">
-          <a href="/Home.html" class="navbar__links"> Home </a>
+          <a href="/index.html" class="navbar__links"> Home </a>
         </li>
         <li class="navbar__item">
           <a href="/Event.html" class="navbar__links"> Events </a>
@@ -109,7 +109,7 @@ class SpecialServiceHeader extends HTMLElement {
           <a href="/ServiceContact.html" class="navbar__links"> Contact </a>
         </li>
          <li class="navbar__item">
-          <a href="Home.html" class="button" style="width:max-content;height: fit-content;padding: 6px auto; "> Customer </a>
+          <a href="index.html" class="button" style="width:max-content;height: fit-content;padding: 6px auto; "> Customer </a>
         </li>
       </ul>
       </div>
@@ -156,7 +156,7 @@ class SpecialFooter extends HTMLElement {
   </p>
   </div>
   <div class="FooterCenter">
-    <a href="/Home.html">
+    <a href="/index.html">
       <img src="/Images/PattersonABQ.png" alt="Patterson Dental Logo" style="height: 85px" />
     </a>
   </div>
@@ -181,7 +181,7 @@ class SpecialServiceFooter extends HTMLElement {
   </p>
   </div>
   <div class="FooterCenter">
-    <a href="/Home.html">
+    <a href="/index.html">
       <img src="/Images/PattersonABQ.png" alt="Patterson Dental Logo" style="height: 85px" />
     </a>
   </div>
