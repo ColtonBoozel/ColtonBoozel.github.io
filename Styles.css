@@ -220,7 +220,7 @@
   box-sizing: border-box;
   border: 3px solid rgb(26, 58, 103);
   border-radius: 20px;
-  background-image: url(/images/Tile.png);
+  background-image: url(/Images/Tile.png);
   background-size: 50px;
   background-repeat: inherit;
   float: right;
@@ -1079,3 +1079,4 @@ footer {
     top: 20px;
   }
 } /* End of media query */
+
