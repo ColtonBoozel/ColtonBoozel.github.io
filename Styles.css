@@ -1055,7 +1055,9 @@ footer {
     padding: 0;
     margin-left: 0;
   }
-
+  .Cards {
+    font-size: 0.75rem;
+  }
   .Cards:hover {
     width: 55%;
   }
